@@ -21,3 +21,6 @@ Add scope, Add transient, Addsingleton
 Hit again 2nd time
 ![image](https://user-images.githubusercontent.com/43515480/234474908-dba145c0-c1a1-4a47-905f-4595fd29ba5a.png)
 
+![image](https://user-images.githubusercontent.com/43515480/234476287-7722b912-3503-4a4a-9518-f8110f9c7ef0.png)
+
+![image](https://user-images.githubusercontent.com/43515480/234476259-9c9ad9ae-5dc5-4857-8d51-b2247c270a85.png)
